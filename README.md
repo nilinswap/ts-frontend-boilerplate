@@ -1,5 +1,5 @@
-# Frontend Boilerplate
-A react boilerplate with tools used like typescript, styled components etc
+# Ts Frontend Boilerplate
+A vanila typescript boilerplate with tools used like jss, parcel-bundler etc
 
 ### setup
 
@@ -15,5 +15,4 @@ install node (>=12) and yarn
 1. `yarn start` - runs server is dev mode
 2. `yarn build` - builds and bundles frontend package and store in `dist`
 3. `yarn tcheck` - typechecks
-4. `yarn create-component NewComponent` - use this command to add a new component.
 
