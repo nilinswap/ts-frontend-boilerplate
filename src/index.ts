@@ -1,7 +1,12 @@
+import {classes} from './css/style'
 
 let name_input: any = document.getElementById("name-input");
 let name_button: any = document.getElementById("name-button");
 let name_input_div: any= document.getElementById("name-input-div");
+
+//add style to name_button
+let button_class: string = classes.myButton;
+name_button.className = `${button_class}`
 
 let entered_name: string = "dummy";
 

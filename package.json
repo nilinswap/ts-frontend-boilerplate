@@ -21,7 +21,9 @@
   },
   "dependencies": {
     "axios": "^0.21.1",
-    "colors": "^1.4.0"
+    "colors": "^1.4.0",
+    "jss": "^10.6.0",
+    "jss-preset-default": "^10.6.0"
   },
   "eslintConfig": {
     "extends": "react-app"
